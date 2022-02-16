@@ -62,13 +62,13 @@
 1,Barrens (Civilised) - [wildbarrens[1d1-1]]
 
 ;swamp wild
-1,Swamp (Wild) - [wildbarrens[2d4+1]]
+1,Swamp (Wild) - [wildswamp[2d4+1]]
 
 ;swamp border
-1,Swamp (Border) - [wildbarrens[1d3-1]]
+1,Swamp (Border) - [wildswamp[1d3-1]]
 
 ;swamp civil
-1,Swamp (Civilised) - [wildbarrens[1d6-5]]
+1,Swamp (Civilised) - [wildswamp[1d6-5]]
 
 ;jungle wild
 1,Wild Jungle [2d8].
