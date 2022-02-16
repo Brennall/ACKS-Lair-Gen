@@ -296,3 +296,15 @@
 1, Wolf
 1, Wolf, Dire
 
+;hilldragon
+1, Basilisk
+1, Caecilian
+1, Chimera
+2, [Black|Blue|Brown|Green|Metallic|Red|Sea|White|Wyrm] Dragon
+1, Hydra
+1, Lamia
+1, Purple Worm
+1, Salamander
+1, Snake, Python
+1, Sphinx
+1, Wyvern
