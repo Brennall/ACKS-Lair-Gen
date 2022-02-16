@@ -8,13 +8,13 @@
 1,Mountain (Civilised)- [wildmountain[1d6-5]]
 
 ;forest wild
-1,Wild Forest [2d4]
+1,Forest (Wild) - [wildforest[2d4]]
 
 ;forest border
-1,Border Forest [1d4-2].
+1,Forest (Border) - [wildforest[1d4-2]]
 
 ;forest civil
-1,Civil Forest [1d6-5].
+1,Forest (Civilised) - [wildforest[1d6-5]]
 
 ;hill wild
 1,Hills (Wild) - [wildhill[1d4]]
@@ -202,7 +202,7 @@
 ;unusual
 1, Ape, White
 1, Basilisk
-2, Blink Dog
+1, Blink Dog
 1, Centaur
 1, Gorgon
 1, Hellhound
@@ -308,3 +308,137 @@
 1, Snake, Python
 1, Sphinx
 1, Wyvern
+
+# Forest
+
+;wildforest-5
+1, No Lairs (-5)
+
+;wildforest-4
+1, No Lairs (-4)
+
+;wildforest-3
+1, No Lairs (-3)
+
+;wildforest-2
+1, No Lairs (-2)
+
+;wildforest-1
+1, No Lairs (-1)
+
+;wildforest0
+1, No Lairs (0)
+
+;wildforest1
+1, Lairs: 1<br>[encounterforest]
+
+;wildforest2
+1, Lairs: 2<br>[encounterforest]<br>[encounterforest]
+
+;wildforest3
+1, Lairs: 3<br>[encounterforest]<br>[encounterforest]<br>[encounterforest]
+
+;wildforest4
+1, Lairs: 4<br>[encounterforest]<br>[encounterforest]<br>[encounterforest]<br>[encounterforest]
+
+;wildforest5
+1, Lairs: 5<br>[encounterforest]<br>[encounterforest]<br>[encounterforest]<br>[encounterforest]<br>[encounterforest]
+
+;wildforest6
+1, Lairs: 6<br>[encounterforest]<br>[encounterforest]<br>[encounterforest]<br>[encounterforest]<br>[encounterforest]<br>[encounterforest]
+
+;wildforest7
+1, Lairs: 7<br>[encounterforest]<br>[encounterforest]<br>[encounterforest]<br>[encounterforest]<br>[encounterforest]<br>[encounterforest]<br>[encounterforest]
+
+;wildforest8
+1, Lairs: 8<br>[encounterforest]<br>[encounterforest]<br>[encounterforest]<br>[encounterforest]<br>[encounterforest]<br>[encounterforest]<br>[encounterforest]<br>[encounterforest]
+
+;encounterforest
+1, [forestmen]
+1, [forestflyer]
+1, [foresthumanoid]
+1, [insect]
+1, [forestanimal]
+1, [foresthumanoid]
+1, [forestdragon]
+1, [forestflyer]
+
+;forestmen
+1, Berserker
+3, Brigand
+1, Cleric
+1, Fighter
+1, Mage
+1, Merchant
+2, NPC Party
+2, Thief
+
+;forestflyer
+1, Bat, Giant
+1, Cockatrice
+1, Griffon
+1, Hawk, Giant
+1, Hippogriff
+1. Owl, Giant
+1, Pegasus
+1, Pixie
+1, Roc, Small
+1, Sprite
+1, Stirge
+1, Swarm, Bat
+
+;foresthumanoid
+1, Bugbear
+1, Cyclops
+1, Dryad
+1, Elf
+1, Giant, Hill
+1, Gnoll
+1, Goblin
+1, Hobgoblin
+1, Ogre
+1, Orc
+1, Pixie
+1, Troll
+
+;forestanimal
+1, Herd Animal (Antelope)
+1, Bat, [Swarm|Swarm|Swarm|Swarm|Giant|Giant]
+1, Bear, Grizzly
+1, Boar, [Ordinary|Ordinary|Ordinary|Ordinary|Giant|Giant]
+1, Cat, Panther
+1, Hawk, [Ordinary|Ordinary|Ordinary|Ordinary|Giant|Giant]
+1, Owl, [Ordinary|Ordinary|Ordinary|Ordinary|Giant|Giant]
+1, Snake, Pit Viper
+1, Spider, Black Widow
+1, Unicorn
+1, Wolf
+1, Wolf, Dire
+
+;forestdragon
+1, Basilisk
+1, Caecilian
+1, Chimera
+2, Green Dragon
+1, Hydra
+1, Lamia
+1, Purple Worm
+1, Salamander
+1, Snake, Python
+1, Sphinx
+1, Wyvern
+
+;insect
+1, Ant, Giant
+1, Bee, Killer Giant
+1, Beetle, Fire
+1, Beetle, Giant Bombardier
+1, Beetle, Tiger
+1, Carcass Scavenger
+1, Centipede, Giant
+1, Fly, Giant Carnivorous
+1, Rhagodessa
+1, Scorpion, Giant
+1, Spider, Black Widow
+1, Spider, Crab
+
