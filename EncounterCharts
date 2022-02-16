@@ -71,13 +71,13 @@
 1,Swamp (Civilised) - [wildswamp[1d6-5]]
 
 ;jungle wild
-1,Wild Jungle [2d8].
+1,Jungle (Wild) - [wildjungle[2d8]]
 
 ;jungle border
-1,Border Jungle [1d2].
+1,Jungle (Border) - [wildjungle[1d2]]
 
 ;jungle civil
-1,Civil Jungle [1d3-2].
+1,Jungle (Civilised) - [wildjungle[1d3-2]]
 
 # Mountains
 
