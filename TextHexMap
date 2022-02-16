@@ -1,0 +1,32 @@
+0101 white mountain wild
+0102 white mountain border
+0103 white mountain civil
+0201 light-green forest wild
+0202 light-green forest border
+0203 light-green forest civil
+0301 hill wild
+0302 hill border
+0303 hill civil
+0401 empty wild
+0402 empty border
+0403 empty civil
+0501 light-green grass wild
+0502 light-green grass border
+0503 light-green grass civil
+0601 bush wild
+0602 bush border
+0603 bush civil
+0701 shadow wild
+0702 shadow border
+0703 shadow civil
+0801 sand desert wild
+0802 sand desert border
+0803 sand desert civil
+0901 swamp wild
+0902 swamp border
+0903 swamp civil
+1001 green jungle wild
+1002 green jungle border
+1003 green jungle civil
+
+include https://campaignwiki.org/contrib/gnomeyland.txt
