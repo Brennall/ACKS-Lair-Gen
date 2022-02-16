@@ -1,0 +1,273 @@
+;mountain wild
+1,Mountain (Wild)- [wildmountain[2d4]]
+
+;mountain border
+1,Mountain (Border) - [wildmountain[1d4-2]]
+
+;mountain civil
+1,Mountain (Civilised)- [wildmountain[1d6-5]]
+
+;forest wild
+1,Wild Forest [2d4]
+
+;forest border
+1,Border Forest [1d4-2].
+
+;forest civil
+1,Civil Forest [1d6-5].
+
+;hill wild
+1,Wild Hills [1d4].
+
+;hill border
+1,Border Hills [1d3-2].
+
+;hill civil
+1,Civil Hills [1d1-1].
+
+;empty wild
+1,Wild clear [1d2].
+
+;empty border
+1,Border clear [1d1-1].
+
+;empty civil
+1,Civil clear [1d1-1].
+
+;grass wild
+1,Wild grass [1d2].
+
+;grass border
+1,Border grass [1d1-1].
+
+;grass civil
+1,Civil grass [1d1-1].
+
+;bush wild
+1,Wild Scrub [1d4].
+
+;bush border
+1,Border Scrub [1d3-2].
+
+;bush civil
+1,Civil Scrub [1d1-1].
+
+;shadow wild
+1,Wild Barren [1d6].
+
+;shadow border
+1,Border Barren [1d2-1].
+
+;shadow civil
+1,Civil Barren [1d1-1].
+
+;swamp wild
+1,Wild Swamp [2d4+1].
+
+;swamp border
+1,Border Swamp [1d3-1].
+
+;swamp civil
+1,Civil Swamp [1d6-5].
+
+;jungle wild
+1,Wild Jungle [2d8].
+
+;jungle border
+1,Border Jungle [1d2].
+
+;jungle civil
+1,Civil Jungle [1d3-2].
+
+# Mountains
+
+;wildmountain-5
+1, No Lairs (-5)
+
+;wildmountain-4
+1, No Lairs (-4)
+
+;wildmountain-3
+1, No Lairs (-3)
+
+;wildmountain-2
+1, No Lairs (-2)
+
+;wildmountain-1
+1, No Lairs (-1)
+
+;wildmountain0
+1, No Lairs (0)
+
+;wildmountain1
+1, Lairs: 1<br>[encountermountains]
+
+;wildmountain2
+1, Lairs: 2<br>[encountermountains]<br>[encountermountains]
+
+;wildmountain3
+1, Lairs: 3<br>[encountermountains]<br>[encountermountains]<br>[encountermountains]
+
+;wildmountain4
+1, Lairs: 4<br>[encountermountains]<br>[encountermountains]<br>[encountermountains]<br>[encountermountains]
+
+;wildmountain5
+1, Lairs: 5<br>[encountermountains]<br>[encountermountains]<br>[encountermountains]<br>[encountermountains]<br>[encountermountains]
+
+;wildmountain6
+1, Lairs: 6<br>[encountermountains]<br>[encountermountains]<br>[encountermountains]<br>[encountermountains]<br>[encountermountains]<br>[encountermountains]
+
+;wildmountain7
+1, Lairs: 7<br>[encountermountains]<br>[encountermountains]<br>[encountermountains]<br>[encountermountains]<br>[encountermountains]<br>[encountermountains]<br>[encountermountains]
+
+;wildmountain8
+1, Lairs: 8<br>[encountermountains]<br>[encountermountains]<br>[encountermountains]<br>[encountermountains]<br>[encountermountains]<br>[encountermountains]<br>[encountermountains]<br>[encountermountains]
+
+;encountermountains
+1, [mountainmen]
+1, [mountainflyer]
+1, [mountainhumanoid]
+1, [unusual]
+1, [mountainanimal]
+1, [mountainhumanoid]
+1, [mountaindragon]
+1, [mountainflyer]
+
+;mountainmen
+1, Barbarian
+1, Berserker
+2, Brigand
+1, Cleric
+1, Fighter
+1, Mage
+3, NPC Party
+1, Thief
+1, Venturer
+
+;mountainflyer
+1, Chimera
+1, Cockatrice
+1, Gargoyle
+1, Griffon
+1, Harpy
+1, Hawk, Giant
+1, Hippogriff
+1, Manticore
+1, Pegasus
+1, Roc, [Small|Small|Small|Large|Large|Giant]
+1, Vulture
+1, Wyvern
+
+;mountainhumanoid
+1, Dwarf
+1, Giant, Cloud
+1, Giant, Frost
+1, Giant, Hill
+1, Giant, Stone
+1, Giant, Storm
+1, Goblin
+1, Kobold
+1, Ogre
+1, Orc
+1, Troglodyte
+1, Troll
+
+;mountainanimal
+1, Herd Animal (Antelope)
+1, Baboon, Roc
+1, Bear, Cave
+1, Cat, Mountain Lion
+1, Eagle
+1, Herd Animal (Goat)
+1, Hawk
+1, Mule (Donkey)
+1, Snake, Giant Rattler
+1, Snake, Pit Viper
+1, Wolf
+1, Wolf, Dire
+
+;mountaindragon
+1, Basilisk
+1, Caecilian
+1, Chimera
+2, Blue Dragon
+1, Hydra
+1, Lamia
+1, Purple Worm
+1, Salamander
+1, Snake, Python
+1, Sphinx
+1, Wyvern
+
+;unusual
+1, Ape, White
+1, Basilisk
+2, Blink Dog
+1, Centaur
+1, Gorgon
+1, Hellhound
+1, Lycanthrope
+1, Medusa
+1, Phase Tiger
+1, Rust Monster
+1, Skittering Maw
+1, Treant
+
+# Hills
+
+;wildhill-1
+1, No Lairs (-1)
+
+;wildhill0
+1, No Lairs (0)
+
+;wildhill1
+1, Lairs: 1<br>[encounterhill]
+
+;wildhill2
+1, Lairs: 2<br>[encounterhill]<br>[encounterhill]
+
+;wildhill3
+1, Lairs: 3<br>[encounterhill]<br>[encounterhill]<br>[encounterhill]
+
+;wildhill4
+1, Lairs: 4<br>[encounterhill]<br>[encounterhill]<br>[encounterhill]<br>[encounterhill]
+
+;encounterhill
+1, [hillmen]
+1, [flyerother]
+1, [hillhumanoid]
+1, [unusual]
+1, [hillanimal]
+1, [hillhumanoid]
+1, [hilldragon]
+1, [hillflyer]
+
+;hillmen
+1, Barbarian
+1, Berserker
+2, Brigand
+1, Cleric
+1, Fighter
+1, Mage
+3, NPC Party
+1, Thief
+1, Venturer
+
+
+
+;flyerother
+1, Bee, Killer Giant
+1, Cockatrice
+1, Fly, Giant Carnivorous
+1, Gargoyle
+1, Griffon
+1, Harpy
+1, Hawk, Giant
+1, Hippogriff
+1, Manticore
+1, Pegasus
+1, Roc, [Small|Small|Small|Large|Large|Giant]
+1, Vulture
+1, Wyvern
+
