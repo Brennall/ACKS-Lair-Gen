@@ -1,5 +1,5 @@
 ;mountain wild
-1,Mountain (Wild)- [wildmountain[2d4]]
+1,Mountain (Wild) - [wildmountain[2d4]]
 
 ;mountain border
 1,Mountain (Border) - [wildmountain[1d4-2]]
@@ -17,13 +17,13 @@
 1,Civil Forest [1d6-5].
 
 ;hill wild
-1,Wild Hills [1d4].
+1,Hills (Wild) - [wildhill[1d4]]
 
 ;hill border
-1,Border Hills [1d3-2].
+1,Hills (Border) - [wildhill[1d3-2]]
 
 ;hill civil
-1,Civil Hills [1d1-1].
+1,Hills (Civilised) - [wildhill[1d1-1]]
 
 ;empty wild
 1,Wild clear [1d2].
