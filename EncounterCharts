@@ -260,12 +260,39 @@
 1, Fly, Giant Carnivorous
 1, Gargoyle
 1, Griffon
-1, Harpy
 1, Hawk, Giant
 1, Hippogriff
-1, Manticore
 1, Pegasus
-1, Roc, [Small|Small|Small|Large|Large|Giant]
-1, Vulture
-1, Wyvern
+1, Pixie
+1, Roc, Small
+1, Sprite
+1, Sturge
+
+;hillhumanoid
+1, Dwarf
+1, Giant, Cloud
+1, Giant, Frost
+1, Giant, Hill
+1, Giant, Stone
+1, Giant, Storm
+1, Goblin
+1, Kobold
+1, Ogre
+1, Orc
+1, Troglodyte
+1, Troll
+
+;hillanimal
+1, Herd Animal (Antelope)
+1, Bear, Grizzly
+1, Boar, [Normal |Normal |Normal |Normal |Giant |Giant]
+1, Cat, Mountain Lion
+1, Eagle
+1, Hawk
+1, Horse, Light
+1, Owl
+1, Herd Animal (Sheep)
+1, Snake, Pit Viper
+1, Wolf
+1, Wolf, Dire
 
