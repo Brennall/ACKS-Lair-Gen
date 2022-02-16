@@ -638,3 +638,97 @@
 1, Vampire
 2, Zombie
 
+# Swamp
+
+;wildswamp-2
+1, No Lairs (0)
+
+;wildswamp-1
+1, No Lairs (0)
+
+;wildswamp0
+1, No Lairs (0)
+
+;wildswamp1
+1, Lairs: 1<br>[encounterswamp]
+
+;wildswamp2
+1, Lairs: 2<br>[encounterswamp]<br>[encounterswamp]
+
+;wildswamp3
+1, Lairs: 3<br>[encounterswamp]<br>[encounterswamp]<br>[encounterswamp]
+
+;wildswamp4
+1, Lairs: 4<br>[encounterswamp]<br>[encounterswamp]<br>[encounterswamp]<br>[encounterswamp]
+
+;wildswamp5
+1, Lairs: 5<br>[encounterswamp]<br>[encounterswamp]<br>[encounterswamp]<br>[encounterswamp]<br>[encounterswamp]
+
+;wildswamp6
+1, Lairs: 6<br>[encounterswamp]<br>[encounterswamp]<br>[encounterswamp]<br>[encounterswamp]<br>[encounterswamp]<br>[encounterswamp]
+
+;wildswamp7
+1, Lairs: 7<br>[encounterswamp]<br>[encounterswamp]<br>[encounterswamp]<br>[encounterswamp]<br>[encounterswamp]<br>[encounterswamp]<br>[encounterswamp]
+
+;wildswamp8
+1, Lairs: 8<br>[encounterswamp]<br>[encounterswamp]<br>[encounterswamp]<br>[encounterswamp]<br>[encounterswamp]<br>[encounterswamp]<br>[encounterswamp]<br>[encounterswamp]
+
+;wildswamp9
+1, Lairs: 9<br>[encounterswamp]<br>[encounterswamp]<br>[encounterswamp]<br>[encounterswamp]<br>[encounterswamp]<br>[encounterswamp]<br>[encounterswamp]<br>[encounterswamp]<br>[encounterswamp]
+
+;encounterswamp
+1, [swampmen]
+1, [flyerother]
+1, [swamphumanoid]
+1, [swampswimmer]
+1, [undead]
+1, [undead]
+1, [insect]
+1, [swampdragon]
+
+;swampmen
+1, Berserker
+1, Brigand
+1, Cleric
+1, Fighter
+1, Mage
+1, Merchant
+3, NPC Party
+2, Thief
+1, Venturer
+
+;swamphumanoid
+1, Gnoll
+1, Goblin
+1, Hobgoblin
+3, Lizard Man
+1, Naiad
+1, Ogre
+1, Orc
+1, Troglodyte
+2, Troll
+
+;swampdragon
+1, Basilisk
+1, Caecilian
+1, Chimera
+2, Black Dragon
+1, Hydra
+1, Lamia
+1, Purple Worm
+1, Salamander
+1, Snake, Python
+1, Sphinx
+1, Wyvern
+
+;swampswimmer
+1, Crab, Giant
+1, Crocodile
+1, Crocodile, Large
+1, Crocodile, Giant
+1, Fish, Catfish
+2, Insect Swarm
+2, Giant Leech
+2, Lizard Man
+1, Skittering Maw
+
