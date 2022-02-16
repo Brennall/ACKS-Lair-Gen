@@ -26,31 +26,31 @@
 1,Hills (Civilised) - [wildhill[1d1-1]]
 
 ;empty wild
-1,Wild clear [1d2].
+1,Clear (Wild) - [wildclear[1d2]]
 
 ;empty border
-1,Border clear [1d1-1].
+1,Clear (Border) - [wildclear[1d1-1]]
 
 ;empty civil
-1,Civil clear [1d1-1].
+1,Clear (Civilised) - [wildclear[1d1-1]]
 
 ;grass wild
-1,Wild grass [1d2].
+1,Grass (Wild) - [wildclear[1d2]]
 
 ;grass border
-1,Border grass [1d1-1].
+1,Grass (Border) - [wildclear[1d1-1]]
 
 ;grass civil
-1,Civil grass [1d1-1].
+1,Grass (Civilised) - [wildclear[1d1-1]]
 
 ;bush wild
-1,Wild Scrub [1d4].
+1,Scrub (Wild) - [wildclear[1d4]]
 
 ;bush border
-1,Border Scrub [1d3-2].
+1,Scrub (Border) - [wildclear[1d3-2]]
 
 ;bush civil
-1,Civil Scrub [1d1-1].
+1,Scrub (Civilised) - [wildclear[1d1-1]]
 
 ;shadow wild
 1,Wild Barren [1d6].
@@ -441,4 +441,91 @@
 1, Scorpion, Giant
 1, Spider, Black Widow
 1, Spider, Crab
+
+# Grasslands / Clear
+
+;wildclear-2
+1, No Lairs (-2)
+
+;wildclear-1
+1, No Lairs (-1)
+
+;wildclear0
+1, No Lairs (0)
+
+;wildclear1
+1, Lairs: 1<br>[encounterclear]
+
+;wildclear2
+1, Lairs: 2<br>[encounterclear]<br>[encounterclear]
+
+;wildclear3
+1, Lairs: 3<br>[encounterclear]<br>[encounterclear]<br>[encounterclear]
+
+;wildclear4
+1, Lairs: 4<br>[encounterclear]<br>[encounterclear]<br>[encounterclear]<br>[encounterclear]
+
+;encounterclear
+1, [clearmen]
+1, [flyerother]
+1, [clearhumanoid]
+1, [clearanimal]
+1, [clearanimal]
+1, [unusual]
+1, [cleardragon]
+1, [insect]
+
+;clearmen
+1, Berserker
+1, Brigand
+1, Cleric
+1, Fighter
+1, Mage
+1, Merchant
+1, Noble
+1, Nomad
+1, NPC Party
+2, Thief
+1, Venturer
+
+;clearhumanoid
+1, Bugbear
+1, Elf
+1, Gnoll
+1, Goblin
+1, Halfling
+1, Hobgoblin
+1, Kobold
+1, Ogre
+1, Orc
+1, Pixie
+1, Throghrin
+1, Troll
+
+;clearanimal
+1, Herd Animal (Antelope)
+1, Boar, [Ordinary|Ordinary|Ordinary|Ordinary|Giant|Giant]
+1, Cat, Lion
+1, Cat, Panther
+1, Elephant
+1, Hawk, [Ordinary|Ordinary|Ordinary|Ordinary|Giant|Giant]
+1, Horse, Light
+1, Lizard, Tuatara
+1, Mule (Donkey)
+1, Snake, Giant Rattler
+1, Snake, Pit Viper
+1, Weasel, Giant
+
+;cleardragon
+1, Basilisk
+1, Caecilian
+1, Chimera
+2, [Black|Blue|Brown|Green|Metallic|Red|White|Wyrm] Dragon
+1, Hydra
+1, Lamia
+1, Purple Worm
+1, Salamander
+1, Snake, Python
+1, Sphinx
+1, Wyvern
 
