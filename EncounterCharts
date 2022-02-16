@@ -241,7 +241,7 @@
 1, [hillanimal]
 1, [hillhumanoid]
 1, [hilldragon]
-1, [hillflyer]
+1, [flyerother]
 
 ;hillmen
 1, Barbarian
@@ -253,8 +253,6 @@
 3, NPC Party
 1, Thief
 1, Venturer
-
-
 
 ;flyerother
 1, Bee, Killer Giant
