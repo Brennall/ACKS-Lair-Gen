@@ -234,14 +234,8 @@
 1, Lairs: 4<br>[encounterhill]<br>[encounterhill]<br>[encounterhill]<br>[encounterhill]
 
 ;encounterhill
-1, [hillmen]
-1, [flyerother]
-1, [hillhumanoid]
-1, [unusual]
-1, [hillanimal]
-1, [hillhumanoid]
 21, [hilldragon]
-1, [flyerother]
+
 
 ;hillmen
 1, Barbarian
