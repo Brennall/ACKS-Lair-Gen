@@ -53,13 +53,13 @@
 1,Scrub (Civilised) - [wildclear[1d1-1]]
 
 ;shadow wild
-1,Wild Barren [1d6].
+1,Barrens (Wild) - [wildbarrens[1d6]]
 
 ;shadow border
-1,Border Barren [1d2-1].
+1,Barrens (Border) - [wildbarrens[1d2-1]]
 
 ;shadow civil
-1,Civil Barren [1d1-1].
+1,Barrens (Civilised) - [wildbarrens[1d1-1]]
 
 ;swamp wild
 1,Wild Swamp [2d4+1].
@@ -174,12 +174,12 @@
 
 ;mountainanimal
 1, Herd Animal (Antelope)
-1, Baboon, Roc
+1, Baboon, Rock
 1, Bear, Cave
 1, Cat, Mountain Lion
-1, Eagle
+1, Eagle, [Ordinary|Ordinary|Ordinary|Ordinary|Giant|Giant]
 1, Herd Animal (Goat)
-1, Hawk
+1, Hawk, [Ordinary|Ordinary|Ordinary|Ordinary|Giant|Giant]
 1, Mule (Donkey)
 1, Snake, Giant Rattler
 1, Snake, Pit Viper
@@ -528,4 +528,113 @@
 1, Snake, Python
 1, Sphinx
 1, Wyvern
+
+# Barrens
+
+;wildbarrens0
+1, No Lairs (0)
+
+;wildbarrens01
+1, Lairs: 1<br>[encounterbarrens]
+
+;wildbarrens02
+1, Lairs: 2<br>[encounterbarrens]<br>[encounterbarrens]
+
+;wildbarrens03
+1, Lairs: 3<br>[encounterbarrens]<br>[encounterbarrens]<br>[encounterbarrens]
+
+;wildbarrens04
+1, Lairs: 4<br>[encounterbarrens]<br>[encounterbarrens]<br>[encounterbarrens]<br>[encounterbarrens]
+
+;wildbarrens05
+1, Lairs: 5<br>[encounterbarrens]<br>[encounterbarrens]<br>[encounterbarrens]<br>[encounterbarrens]<br>[encounterbarrens]
+
+;wildbarrens06
+1, Lairs: 6<br>[encounterbarrens]<br>[encounterbarrens]<br>[encounterbarrens]<br>[encounterbarrens]<br>[encounterbarrens]<br>[encounterbarrens]
+
+;encounterbarrens
+1, [barrensmen]
+1, [barrensflyer]
+1, [barrenshumanoid]
+1, [barrenshumanoid]
+1, [barrensanimal]
+1, [barrensdragon]
+1, [undead]
+1, [unusual]
+
+;barrensmen
+1, Barbarian
+1, Berserker
+2, Brigand
+1, Cleric
+1, Fighter
+1, Mage
+3, NPC Party
+1, Thief
+1, Venturer
+
+;barrensflyer
+1, Cockatrice
+1, Gargoyle
+1, Griffon
+1, Harpy
+1, Hawk, Giant
+1, Hippogriff
+1, Lammasu
+1, Manticore
+1, Pegasus
+1, Roc, Small
+1, Stirge
+1, Wyvern
+
+;barrenshumanoid
+1, Bugbear
+1, Giant, Hill
+1, Goblin
+1, Gnoll
+1, Hobgoblin
+1, Hobgoblin
+1, Ogre
+1, Ogre
+1, Orc
+1, Orc
+1, Throghrin
+1, Troll
+
+;barrensanimal
+1, Herd Animal (Antelope)
+1, Baboon, Rock
+1, Bear, Cave
+1, Cat, Mountain Lion
+1, Eagle, [Ordinary|Ordinary|Ordinary|Ordinary|Giant|Giant]
+1, Herd Animal (Goat)
+1, Hawk, [Ordinary|Ordinary|Ordinary|Ordinary|Giant|Giant]
+1, Snake, Giant Rattler
+1, Snake, Pit Viper
+1, Spider, Crab
+1, Wolf, Dire
+1, Vulture
+
+;barrensdragon
+1, Basilisk
+1, Caecilian
+1, Chimera
+2, Red Dragon
+1, Hydra
+1, Lamia
+1, Purple Worm
+1, Salamander
+1, Snake, Python
+1, Sphinx
+1, Wyvern
+
+;undead
+2, Ghoul
+2, Mummy
+2, Skeleton
+1, Spectre
+1, Wight
+1, Wraith
+1, Vampire
+2, Zombie
 
