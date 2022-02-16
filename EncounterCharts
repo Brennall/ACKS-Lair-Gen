@@ -62,13 +62,13 @@
 1,Barrens (Civilised) - [wildbarrens[1d1-1]]
 
 ;swamp wild
-1,Wild Swamp [2d4+1].
+1,Swamp (Wild) - [wildbarrens[2d4+1]]
 
 ;swamp border
-1,Border Swamp [1d3-1].
+1,Swamp (Border) - [wildbarrens[1d3-1]]
 
 ;swamp civil
-1,Civil Swamp [1d6-5].
+1,Swamp (Civilised) - [wildbarrens[1d6-5]]
 
 ;jungle wild
 1,Wild Jungle [2d8].
@@ -639,6 +639,15 @@
 2, Zombie
 
 # Swamp
+
+;wildswamp-5
+1, No Lairs (0)
+
+;wildswamp-4
+1, No Lairs (0)
+
+;wildswamp-3
+1, No Lairs (0)
 
 ;wildswamp-2
 1, No Lairs (0)
