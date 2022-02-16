@@ -741,3 +741,116 @@
 2, Lizard Man
 1, Skittering Maw
 
+# Jungle
+
+;wildjungle-1
+1, No Lairs (0)
+
+;wildjungle0
+1, No Lairs (0)
+
+;wildjungle1
+1, Lairs: 1<br>[encounterjungle]
+
+;wildjungle2
+1, Lairs: 2<br>[encounterjungle]<br>[encounterjungle]
+
+;wildjungle3
+1, Lairs: 3<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]
+
+;wildjungle4
+1, Lairs: 4<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]
+
+;wildjungle5
+1, Lairs: 5<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]
+
+;wildjungle6
+1, Lairs: 6<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]
+
+;wildjungle7
+1, Lairs: 7<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]
+
+;wildjungle8
+1, Lairs: 8<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]
+
+;wildjungle9
+1, Lairs: 9<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]
+
+;wildjungle10
+1, Lairs: 10<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]
+
+;wildjungle11
+1, Lairs: 11<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]
+
+;wildjungle12
+1, Lairs: 12<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]
+
+;wildjungle13
+1, Lairs: 13<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]
+
+;wildjungle16
+1, Lairs: 16<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]<br>[encounterjungle]
+
+;encounterjungle
+1, [junglemen]
+1, [flyerother]
+1, [insect]
+1, [insect]
+1, [junglehumanoid]
+1, [jungleanimal]
+1, [jungleanimal]
+1, [jungledragon]
+
+;junglemen
+1, Barbarian
+1, berserker
+3, Brigand
+1, Cleric
+1, Fighter
+1, Mage
+2, NPC Party
+1, Thief
+1, Venturer
+
+;junglehumanoid
+1, Bugbear
+1, Cyclops
+1, Elf
+1, Giant, Fire
+1, Giant, Hill
+1, Gnoll
+1, Goblin
+1, Lizard Man
+1, Ogre
+1, Orc
+1, Troglodyte
+1, Troll
+
+;jungledragon
+1, Basilisk
+1, Caecilian
+1, Chimera
+2, [Black|Blue|Brown|Green|Metallic|Red|White|Wyrm] Dragon
+1, Hydra
+1, Lamia
+1, Purple Worm
+1, Salamander
+1, Snake, Python
+1, Sphinx
+1, Wyvern
+
+;jungleanimal
+1, Herd Animal (Antelope)
+1, Boar, [Ordinary|Ordinary|Ordinary|Ordinary|Giant|Giant]
+1, Cat, Panther
+1, Lizard, Draco
+1, Lizard, Gecko
+1, Lizard, Horned
+1, Monkey
+1, Shrew Giant
+1, Snake, Pit Viper
+1, Snake, Python
+1, Snake, Spitting Cobra
+1, Spider, Crab
+
+
